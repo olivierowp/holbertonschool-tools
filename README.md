@@ -6,3 +6,4 @@ Ce dépôt contient:
 * 0x02. vi
 * 0x03. git
 * 0x04. Shell, basics
+* 0x05. Shell, permissions
