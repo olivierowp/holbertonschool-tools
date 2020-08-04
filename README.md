@@ -7,3 +7,4 @@ Ce dépôt contient:
 * 0x03. git
 * 0x04. Shell, basics
 * 0x05. Shell, permissions
+* 0x06. Shell, I/O Redirections and filters
