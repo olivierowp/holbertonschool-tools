@@ -1,5 +1,7 @@
 # 0x07. Shell, init files, variables and expansions
 
+06/08/2020
+
 0. <o> 
 1. Hello you
 2. The path to success is to take massive, determined action
